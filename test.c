@@ -1,5 +1,7 @@
 #include <malloc.h>
 #include <string.h>
+
+#define DEBUG
 #include "raii.h"
 
 int fill_string(char *c)
