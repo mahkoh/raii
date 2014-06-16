@@ -7,8 +7,8 @@
 int fill_string(char *c)
 {
 	strcpy(c, "Hello World\n");
-	//return 0;
-	return 1;
+	return 0;
+	//return 1;
 }
 
 char *example(void)
